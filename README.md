@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">⚽ Carlos Soto</h1>
 
 <p align="center">
@@ -67,4 +67,3 @@ Actualmente enfocado en aprender, crear y desarrollar proyectos que puedan aport
 <p align="center">
 Gracias por visitar mi perfil 👋  
 </p>
-```
